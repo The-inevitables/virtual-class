@@ -2,7 +2,7 @@
 $servername = "sql113.epizy.com";
 $username = "epiz_29571242";
 $password = "IvGlLVsaTtOVzH3";
-$dbname = "epiz_29571242_vclassdb";
+$dbname = "epiz_29571242_virtualclassdb";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
